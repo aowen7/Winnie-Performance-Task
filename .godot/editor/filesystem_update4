@@ -2,3 +2,4 @@ res://Scenes/world.tscn
 res://Scripts/Player.gd
 res://player.tscn
 res://Scenes/player.tscn
+res://Scenes/enemy.tscn
